@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomMenuText" parent="@android:style/TextAppearance.Material.Menu">
+        <item name="android:textColor">#FAF9F9</item>
+    </style>
+</resources>
